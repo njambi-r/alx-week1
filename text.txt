@@ -1,1 +1,2 @@
 test file
+bug fix 1 changes
